@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin: 20px;
+  font-weight: bold;
+}
+
+.home-button {
+  font-family: 'Roboto';
+}

@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.not-found-cont {
+  text-align: center;
+}
+
+.not-found-heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin: 20px;
+  font-weight: bold;
+}

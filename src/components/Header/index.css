@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list {
+  list-style-type: none;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-right: 12px;
+}
